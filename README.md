@@ -21,8 +21,8 @@ Obtain the value of accuracy and data prediction.
 ...
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: Ragul E
-RegisterNumber: 212221043005  
+Developed by: Rahul K
+RegisterNumber: 212221043006
 */
 
 
